@@ -3,6 +3,7 @@
 
 Currently working on frontend with:
 - React
+- Typescript
 - TailwindCSS
 
 After windows made me quit I decided to learn NixOS and see if it's worth the hype.
