@@ -1,6 +1,3 @@
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WojciechJedraa&theme=radical)
-
 Currently working on frontend with:
 - React
 - Typescript
